@@ -1,0 +1,90 @@
+blockquote {
+    color: blue;
+}
+
+h1 {
+    color: rgb(255, 0, 0);
+}
+
+/*td[rowspan="2"]{ color: #fff; }*/
+
+strong {
+    color: #00f;
+    color: #f00;
+}
+
+p {
+    color: navy
+}
+
+blockquote {
+    color: #fff;
+    background-color: lightblue;
+}
+
+div,
+table {
+    font-family: DFKai-SB, BiauKai, arial;
+}
+
+td[colspan="2"],
+div[align="center"] {
+    font-weight: 900;
+    font-size: 20px;
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+
+td[rowspan="2"] {
+    text-align: center;
+    letter-spacing: 0.3em;
+}
+
+p {
+    line-height: 30px;
+}
+
+.circle {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #000;
+    line-height: 50px;
+    text-align: center;
+    background: #ffce00;
+}
+
+.circle-red {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    color: #fff;
+    line-height: 50px;
+    text-align: center;
+    background: #e00831;
+}
+
+.circle-blank {
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    font-size: 23px;
+    font-family: Arial;
+    font-weight: 900;
+    line-height: 50px;
+    text-align: center;
+}
+
+
+#lottery {
+    background: rgb(255, 255,204);
+}
+strong {
+    color: rgb(255, 0, 0);
+}
