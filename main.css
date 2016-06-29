@@ -9,7 +9,6 @@ h1 {
 /*td[rowspan="2"]{ color: #fff; }*/
 
 strong {
-    color: #00f;
     color: #f00;
 }
 
@@ -41,7 +40,7 @@ td[rowspan="2"] {
 }
 
 p {
-    line-height: 30px;
+    line-height: 50px;
 }
 
 .circle {
